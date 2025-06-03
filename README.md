@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyash Mishra</h1>
 <h3 align="center">A passionate Backend Engineer from India</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Cloud, System Design, DSA**
+- 🌱 I’m currently learning **Spring Boot, Cloud, DevOps, System Design, DSA**
 
 - 💬 Ask me about **Java, Spring, Redis, Kafka**
 
