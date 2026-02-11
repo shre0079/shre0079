@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreyash Mishra</h1>
-<h3 align="center">A passionate Backend Engineer from India</h3>
+<h3 align="center">Backend & DevOps Engineer from India</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Cloud, DevOps, System Design, DSA**
+- 🌱 Currently Mastering **Spring Boot, Cloud, DevOps, System Design, DSA**
 
-- 💬 Ask me about **Java, Spring, Redis, Kafka**
+- 💬 Ask me about **Java, SpringBoot, AWS, Solutions, DevOps, Redis, Kafka**
 
 - 📫 How to reach me **shreyashshree0079@gmail.com**
 
