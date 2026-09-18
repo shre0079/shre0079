@@ -77,11 +77,13 @@ Distributed compute platform that executes user-submitted ML workloads across co
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shre0079&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shre0079&layout=compact&theme=github_dark&hide_border=true)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shre0079&theme=github-compact&hide_border=true&area=true)](https://github.com/shre0079)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shre0079&theme=github-dark&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shre0079&theme=github_dark)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shre0079&theme=github_dark" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shre0079&theme=github_dark" />
 
 </div>
 
