@@ -1,18 +1,95 @@
-<h1 align="center">Hi 👋, I'm Shreyash Mishra</h1>
-<h3 align="center">Backend & DevOps Engineer from India</h3>
+<div align="center">
 
-- 🌱 Currently Mastering **Spring Boot, Cloud, DevOps, System Design, DSA**
+# Shreyash Mishra
 
-- 💬 Ask me about **Java, SpringBoot, AWS, Solutions, DevOps, Redis, Kafka**
+**Backend & Infrastructure Engineer**
 
-- 📫 How to reach me **shreyashshree0079@gmail.com**
+Pre-final year CS student at Bennett University · AWS Certified Solutions Architect  
+Building distributed systems, cloud pipelines, and tools that make ML infra accessible
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/smish9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smish9" height="30" width="40" /></a>
-<a href="https://instagram.com/ohyeah0079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ohyeah0079" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shre0079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shre0079" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-smish9-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/smish9)
+[![GitHub](https://img.shields.io/badge/GitHub-shre0079-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shre0079)
+[![LeetCode](https://img.shields.io/badge/LeetCode-shre0079-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/shre0079)
+[![Email](https://img.shields.io/badge/Email-shreyashshree0079%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyashshree0079@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## About
+
+I specialize in **backend engineering and cloud infrastructure** — designing scalable APIs, distributed compute systems, and CI/CD pipelines. Currently a **Software Engineer Fellow at Caudal AI Labs**, where I author benchmark tasks for TerminalBench-2 and build reproducible Linux-based evaluation environments.
+
+- 🔭 Working on a **community-run distributed LLM inference network** (pipeline parallelism across GPU nodes)
+- 🏗️ Built **ML Compute Marketplace** — an Uber-for-ML-models platform with async job scheduling & real-time monitoring
+- ☁️ **AWS Certified Solutions Architect** | Managed 5–6 concurrent CI/CD pipelines at Novas Arc
+- 🧩 Interested in distributed systems, infrastructure tooling, and making cloud/ML infra accessible to students
+- 📍 Greater Noida, India
+
+---
+
+## Experience
+
+**Software Engineer Fellow** · Caudal AI Labs *(Jul 2026 – Aug 2026)*  
+Designed and validated challenging terminal benchmark tasks for TerminalBench-2. Built automated validation pipelines and oracle-based test suites. Developed reproducible Linux environments using Git, Bash, Docker, and Harbor.
+
+**Software Engineer Intern** · Novas Arc *(Sep 2025 – Dec 2025)*  
+Architected AWS CI/CD pipelines with Docker, eliminating manual deployment effort entirely. Right-sized EC2 instances and cloud resources for measurable monthly cost savings. Managed 5–6 concurrent pipelines across Production, QA, and Test environments.
+
+---
+
+## Projects
+
+### 🧠 Distributed LLM Inference Network *(ongoing)*
+`Python` `FastAPI` `Transformers` `ZeroMQ` `Quantization`
+
+Community-run inference platform where multiple GPU nodes participate using **pipeline parallelism** — no single GPU needs to load the full model. Features coordinator-worker architecture for GPU discovery, shard assignment, and health monitoring. Currently designing dynamic MoE placement and heterogeneous GPU support.
+
+### ⚙️ ML Compute Marketplace
+`Java` `Spring Boot` `WebSocket` `Docker` `PostgreSQL` `React`
+
+Distributed compute platform that executes user-submitted ML workloads across compute nodes with async lifecycle management. Includes resource-aware scheduling, dead-worker recovery via heartbeats, log streaming, artifact uploads, and real-time job monitoring over WebSockets.
+
+---
+
+## Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Java, Python, JavaScript, Bash, C++ |
+| **Backend** | Spring Boot, FastAPI, Spring Security, Hibernate/JPA, Spring Cloud |
+| **Cloud & DevOps** | AWS (25+ services), Docker, Kubernetes, GitHub Actions, Jenkins |
+| **Databases** | PostgreSQL, MongoDB, Redis |
+| **Observability** | Grafana, Prometheus |
+| **Tools** | Git, Linux, Postman |
+
+---
+
+## Certifications
+
+- 🏅 **AWS Cloud Solutions Architect** — Amazon Web Services (2026)
+- 📘 **Continuous Delivery & DevOps** — University of Virginia (2025)
+- ⚛️ **Advanced React** — Meta (2026)
+
+---
+
+## Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shre0079&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shre0079&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shre0079&theme=github-dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to backend/infra roles, research collabs, and building interesting things*  
+**shreyashshree0079@gmail.com**
+
+</div>
