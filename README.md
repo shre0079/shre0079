@@ -77,8 +77,6 @@ Distributed compute platform that executes user-submitted ML workloads across co
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shre0079&theme=github-compact&hide_border=true&area=true)](https://github.com/shre0079)
-
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shre0079&theme=github_dark)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shre0079&theme=github_dark" />
